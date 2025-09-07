@@ -18,9 +18,8 @@ export default function SignIn() {
                         font-poppins outline-none w-[400px] h-[35px] pl-6 mt-3 ring-2 ring-[#D9D9D9] 
                         rounded-md`} />
 
-
-                    <a href="" className="text-blue-700 text-sm font-poppins mt-4 pr-0">forgot password?</a>
-
+                    <a href="" className="text-blue-700 text-sm font-poppins mt-4 pr-0">
+                        forgot password?</a>
 
                     <button className="text-[#FFFFFF] font-poppins bg-[#000000] w-[400px] h-[40px] 
                             rounded-md mt-4">Log In</button>
